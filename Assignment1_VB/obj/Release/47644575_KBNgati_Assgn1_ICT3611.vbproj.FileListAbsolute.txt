@@ -1,0 +1,17 @@
+C:\Users\kagison\Documents\Visual Studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Release\Assignment1_VB.frmEnrollStudentInModule.resources
+C:\Users\kagison\Documents\Visual Studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Release\Assignment1_VB.frmModuleActivation.resources
+C:\Users\kagison\Documents\Visual Studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Release\Assignment1_VB.Resources.resources
+C:\Users\kagison\Documents\Visual Studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Release\Assignment1_VB.frmRegisterModule.resources
+C:\Users\kagison\Documents\Visual Studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Release\Assignment1_VB.frmRegisterStudent.resources
+C:\Users\kagison\Documents\Visual Studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Release\47644575_KBNgati_Assgn1_ICT3611.vbproj.GenerateResource.Cache
+C:\Users\kagison\Documents\Visual Studio 2013\Projects\Assignment1_VB\Assignment1_VB\bin\Release\47644575_KBNgati_Assgn1_ICT3611.exe.config
+C:\Users\kagison\Documents\Visual Studio 2013\Projects\Assignment1_VB\Assignment1_VB\bin\Release\47644575_KBNgati_Assgn1_ICT3611.exe
+C:\Users\kagison\Documents\Visual Studio 2013\Projects\Assignment1_VB\Assignment1_VB\bin\Release\47644575_KBNgati_Assgn1_ICT3611.pdb
+C:\Users\kagison\Documents\Visual Studio 2013\Projects\Assignment1_VB\Assignment1_VB\bin\Release\47644575_KBNgati_Assgn1_ICT3611.xml
+C:\Users\kagison\Documents\Visual Studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Release\47644575_KBNgati_Assgn1_ICT3611.exe
+C:\Users\kagison\Documents\Visual Studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Release\47644575_KBNgati_Assgn1_ICT3611.xml
+C:\Users\kagison\Documents\Visual Studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Release\47644575_KBNgati_Assgn1_ICT3611.pdb
+C:\Users\kagison\Documents\Visual Studio 2013\Projects\47644575_KBNgati_Assgn1_ICT3611\Assignment1_VB\bin\Release\47644575_KBNgati_Assgn1_ICT3611.exe.config
+C:\Users\kagison\Documents\Visual Studio 2013\Projects\47644575_KBNgati_Assgn1_ICT3611\Assignment1_VB\obj\Release\47644575_KBNgati_Assgn1_ICT3611.exe
+C:\Users\kagison\Documents\Visual Studio 2013\Projects\47644575_KBNgati_Assgn1_ICT3611\Assignment1_VB\obj\Release\47644575_KBNgati_Assgn1_ICT3611.xml
+C:\Users\kagison\Documents\Visual Studio 2013\Projects\47644575_KBNgati_Assgn1_ICT3611\Assignment1_VB\obj\Release\47644575_KBNgati_Assgn1_ICT3611.pdb

@@ -1,0 +1,13 @@
+C:\Users\kagison\documents\visual studio 2013\Projects\Assignment1_VB\Assignment1_VB\bin\Debug\Assignment1_VB.exe.config
+C:\Users\kagison\documents\visual studio 2013\Projects\Assignment1_VB\Assignment1_VB\bin\Debug\Assignment1_VB.exe
+C:\Users\kagison\documents\visual studio 2013\Projects\Assignment1_VB\Assignment1_VB\bin\Debug\Assignment1_VB.pdb
+C:\Users\kagison\documents\visual studio 2013\Projects\Assignment1_VB\Assignment1_VB\bin\Debug\Assignment1_VB.xml
+C:\Users\kagison\documents\visual studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Debug\Assignment1_VB.frmEnrollStudentInModule.resources
+C:\Users\kagison\documents\visual studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Debug\Assignment1_VB.frmModuleActivation.resources
+C:\Users\kagison\documents\visual studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Debug\Assignment1_VB.Resources.resources
+C:\Users\kagison\documents\visual studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Debug\Assignment1_VB.frmRegisterModule.resources
+C:\Users\kagison\documents\visual studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Debug\Assignment1_VB.frmRegisterStudent.resources
+C:\Users\kagison\documents\visual studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Debug\Assignment1_VB.vbproj.GenerateResource.Cache
+C:\Users\kagison\documents\visual studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Debug\Assignment1_VB.exe
+C:\Users\kagison\documents\visual studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Debug\Assignment1_VB.xml
+C:\Users\kagison\documents\visual studio 2013\Projects\Assignment1_VB\Assignment1_VB\obj\Debug\Assignment1_VB.pdb
